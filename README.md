@@ -1,0 +1,2 @@
+- Atividades referentes ao curso deste link: https://www.youtube.com/playlist?list=PLnDvRpP8BnezfJcfiClWskFOLODeqI_Ft
+- Objetivo: Ter uma noção melhor do funcionamento do NextJS e aprimoramento no desenvolvimento usando o mesmo.
