@@ -1,20 +1,16 @@
 import Image from "next/image";
-import Link from "next/link";
+import Navbar from "@/components/navbar";
+import Footer from "@/components/Footer";
+
 
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
+    <> 
+        <Navbar />
         <h1>Hola Mundo</h1>
-        <ul>
-          <li>
-            <Link href="/products">
-              Products
-            </Link>
-          </li>
-        </ul>
-      </div>
-    </main>
+       <Footer />
+      
+    </>
   );
 }
