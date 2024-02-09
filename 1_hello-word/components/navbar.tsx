@@ -17,7 +17,12 @@ export default function Navbar(){
           <Link href="/sobre">
             Sobre
           </Link>
-        </li>                 
+        </li>   
+        <li>
+          <Link href="/dashboard">
+            Dashboard
+          </Link>
+        </li>               
       </ul>
     )
 }

@@ -35,19 +35,19 @@ body {
   margin: 0;
   padding: 0;
   font-family: Helvetica;
-  padding: 20px;
-  
   text-align: center;
+  
 }
 .container {
   min-height: 60vh;
-  
-
+  padding: 20px;
+  text-align: center;
+  align-content: center;
 }
 
 .title {
   color: #fff;
-  /*background-image: url('/images/pattern.jpg');*/
+  background-image: url('/images/pattern.jpg');
   background-size: cover;
   background-position: center;
   padding: 15px;

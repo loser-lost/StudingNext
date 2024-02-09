@@ -5,9 +5,9 @@ export default function Produtos() {
     return (
        
             <>
-            <Navbar />
+            
                 <h1>Sobre</h1>
-            <Footer /> 
+            
             </>           
             
         
